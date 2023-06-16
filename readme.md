@@ -1,0 +1,1 @@
+A class to perform all tasks related to FDC (Feature type distributed)
